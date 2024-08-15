@@ -1,15 +1,15 @@
 {
-  "name": "loveTodo",
+  "name": "lovetodo",
   "version": "0.0.1",
   "main": "index.js",
-  "license":"MIT",
+  "license": "MIT",
   "bin": {
-    "u": "cli.js"
+    "xp": "cli.js"
   },
   "files": [
     "*.js"
   ],
-  "scripts":{
+  "scripts": {
     "test": "jest"
   },
   "dependencies": {
